@@ -44,3 +44,24 @@ The model was tested on an Influenza dataset, achieving the following metrics:
 
 This research demonstrates the potential of predictive modeling in public health, focusing on infectious disease outbreaks. The developed model can assist public health officials and policymakers in proactively preparing for potential disease outbreaks, allocating resources, and implementing preventive measures.
 
+## How to Use the Project
+1. Clone the repository:
+   ```
+   git clone https://github.com/your-username/disease-outbreak-prediction.git
+   ```
+
+2. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+
+3. Prepare your data:
+   - Ensure your disease, weather, and demographic data are in the correct format
+   - Place the datasets in the `datasets` folder
+
+4. Run the main script:
+   ```
+   python main.py
+   ```
+
+5. View the results and predictions in the output folder
