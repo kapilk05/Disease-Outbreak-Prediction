@@ -1,5 +1,6 @@
 # Disease Outbreak Prediction
 
+
 ## Abstract
 
 This project implements deep learning algorithms and LLMs to predict the severity of infectious disease outbreaks in India. By utilizing historical disease data and climatic data from the past decade, we aim to create a robust predictive system for future outbreaks.
